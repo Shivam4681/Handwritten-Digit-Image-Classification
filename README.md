@@ -5,7 +5,6 @@
 
 ## Project Overview
 This project implements handwritten digit image classification using deep learning with Keras and the MNIST dataset, a standard benchmark for image classification tasks.The coding for this project was done using Google Colab.
-
 <br>
 
 • Dataset: MNIST dataset containing grayscale images of handwritten digits (0-9).<br>
@@ -29,7 +28,7 @@ This project implements handwritten digit image classification using deep learni
 
 
 #### Repository Contents<br>
-• notebooks: Jupyter notebooks with detailed steps for data preprocessing, deep learning model development, training, and evaluation.<br>
+• notebooks: Google Colab notebooks with detailed steps for data preprocessing, deep learning model development, training, and evaluation.<br>
 • models: Saved model files for reuse and inference.<br>
 • reports: Performance metrics and evaluation reports.<br>
 
